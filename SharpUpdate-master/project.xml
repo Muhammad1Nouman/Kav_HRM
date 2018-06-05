@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="TestApp"> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/Muhammad1Nouman/HRM_KAV/master/SharpUpdate-master/TestApp/bin/Debug/TestApp.exe</url> 
+        <fileName>TestApp.exe</fileName> 
+        <md5>0a2928664124bf91a4a973dbee741d96</md5>
+        <description>Update: 06/19/2014:
+        1. Added notification message when the current version is already the latest.</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
